@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://wuyang910217.github.io</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2019/01/06/summaryforyear.html</loc>
+        <lastmod>2019-01-06T02:53:19.588Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2019/01/03/gitment.html</loc>
+        <lastmod>2019-01-06T02:34:57.951Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2016/08/10/useful-chrome-plugins.html</loc>
+        <lastmod>2019-01-06T02:29:18.183Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2016/11/24/what-have-done-by-philosopher.html</loc>
+        <lastmod>2019-01-06T02:29:18.183Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2016/12/14/use-ant-design-in-meteor.html</loc>
+        <lastmod>2019-01-06T02:29:18.182Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2017/04/10/test.html</loc>
+        <lastmod>2019-01-06T02:29:18.181Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2016/11/13/the-alchemist.html</loc>
+        <lastmod>2019-01-06T02:29:18.181Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2016/09/15/react-enhanced-component-demo.html</loc>
+        <lastmod>2019-01-06T02:29:18.180Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2016/09/02/react-proptypes.html</loc>
+        <lastmod>2019-01-06T02:29:18.180Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2016/09/08/react-bind-three-ways.html</loc>
+        <lastmod>2019-01-06T02:29:18.179Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2016/08/16/meteor-react-init.html</loc>
+        <lastmod>2019-01-06T02:29:18.178Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2016/08/18/meteor-try-catch-handle-error.html</loc>
+        <lastmod>2019-01-06T02:29:18.178Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2016/08/12/meteor-github-login.html</loc>
+        <lastmod>2019-01-06T02:29:18.177Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2016/11/12/meteor-react-code-snippets.html</loc>
+        <lastmod>2019-01-06T02:29:18.177Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2017/03/09/mac-useful-software.html</loc>
+        <lastmod>2019-01-06T02:29:18.176Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2016/08/22/meteor-flowrouter-data-not-found.html</loc>
+        <lastmod>2019-01-06T02:29:18.176Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2016/11/10/kindle-notes-export.html</loc>
+        <lastmod>2019-01-06T02:29:18.175Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2016/08/05/hexo-blog-theme-by-indigo.html</loc>
+        <lastmod>2019-01-06T02:29:18.175Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2016/08/20/flow-router-params.html</loc>
+        <lastmod>2019-01-06T02:29:18.170Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2016/08/06/deploy-meteor-app.html</loc>
+        <lastmod>2019-01-06T02:29:18.169Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://wuyang910217.github.io/2016/08/08/add-local-meteor-package.html</loc>
+        <lastmod>2019-01-06T02:29:18.168Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+</urlset>
+<!-- XML Sitemap generated by Hexo SEO Friendly Sitemap Generator -->
